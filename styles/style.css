@@ -1,0 +1,8 @@
+.card {
+  border: solid black;
+  height: 175px;
+}
+
+.col-lg-4{
+  padding: 20px;
+}
